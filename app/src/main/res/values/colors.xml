@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#EFEFEF</color>
+    <color name="conduit_green">#5CB85C</color>
+    <color name="conduit_green_dark">#467146</color>
+    <color name="conduit_grey">#818A91</color>
+    <color name="conduit_grey_dark">#596065</color>
+    <color name="conduit_green_transparent">#3697E697</color>
+</resources>
